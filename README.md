@@ -27,5 +27,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

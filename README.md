@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/Hariompraja/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -30,6 +31,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 ## Math

@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
@@ -24,6 +25,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Hariompraja/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -37,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 ## Math
 |  |

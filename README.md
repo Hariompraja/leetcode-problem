@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/Hariompraja/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Hariompraja/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,4 +67,12 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Hariompraja/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

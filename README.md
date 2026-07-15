@@ -56,6 +56,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

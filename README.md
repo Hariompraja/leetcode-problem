@@ -43,6 +43,7 @@
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hariompraja/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/Hariompraja/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 | [0055-jump-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariompraja/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

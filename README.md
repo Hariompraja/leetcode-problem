@@ -44,6 +44,7 @@
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hariompraja/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/Hariompraja/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
@@ -67,12 +68,14 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hariompraja/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariompraja/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
@@ -120,4 +123,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hariompraja/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Hariompraja/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariompraja/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |

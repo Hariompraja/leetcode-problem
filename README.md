@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +38,7 @@
 | [0027-remove-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,10 +99,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
@@ -123,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariompraja/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |

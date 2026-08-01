@@ -21,6 +21,7 @@
 | [0006-zigzag-conversion](https://github.com/Hariompraja/leetcode-problem/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Hariompraja/leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Hariompraja/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hariompraja/leetcode-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Hariompraja/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Hariompraja/leetcode-problem/tree/master/0068-text-justification) |
@@ -44,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hariompraja/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hariompraja/leetcode-problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

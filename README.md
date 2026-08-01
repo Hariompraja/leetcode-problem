@@ -72,6 +72,7 @@
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
+| [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
@@ -213,6 +214,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Recursion

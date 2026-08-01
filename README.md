@@ -69,6 +69,7 @@
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -210,4 +214,12 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

@@ -70,6 +70,7 @@
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -223,4 +226,13 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

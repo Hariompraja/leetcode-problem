@@ -51,6 +51,7 @@
 | [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Hariompraja/leetcode-problem/tree/master/0068-text-justification) |
@@ -95,6 +96,7 @@
 | [0009-palindrome-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Hariompraja/leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
@@ -209,6 +211,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |

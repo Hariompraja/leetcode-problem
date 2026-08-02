@@ -28,6 +28,7 @@
 | [0076-minimum-window-substring](https://github.com/Hariompraja/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Hariompraja/leetcode-problem/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Hariompraja/leetcode-problem/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariompraja/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -117,6 +118,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Hariompraja/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Hariompraja/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Hariompraja/leetcode-problem/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Hariompraja/leetcode-problem/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariompraja/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |

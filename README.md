@@ -55,6 +55,7 @@
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Hariompraja/leetcode-problem/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Hariompraja/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariompraja/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@
 | [0012-integer-to-roman](https://github.com/Hariompraja/leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hariompraja/leetcode-problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0073-set-matrix-zeroes](https://github.com/Hariompraja/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Hariompraja/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Hariompraja/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |

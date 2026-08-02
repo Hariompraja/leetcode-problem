@@ -206,6 +206,7 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,10 +221,12 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |

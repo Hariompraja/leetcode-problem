@@ -1,41 +1,50 @@
 class Solution {
 public:
-    std::string simplifyPath(std::string s) {
-        std::stack<std::string> stack;
-        std::stringstream ss(s);
-        std::string component;
-        
-        while (std::getline(ss, component, '/')) {
-            if (component.empty() || component == ".") {
-                // Ignore '.' and empty strings
-                continue;
-            } else if (component == "..") {
-                // Pop from stack for '..'
-                if (!stack.empty()) {
-                    stack.pop();
+    string simplifyPath(string path) {
+
+        path+='/';
+        stack<string> my_Stack;
+    
+        string current="";
+
+
+        for(char &ch:path){
+
+            if(ch=='/'){
+                if(current=="."){  
+                    current = "";
+                    continue;
                 }
-            } else {
-                // Push valid directory names
-                stack.push(component);
+                if(current==".."){
+            
+                    if(!my_Stack.empty())
+                         my_Stack.pop();
+
+                    current="";
+                    continue;
+                }
+                if(current!="")
+                my_Stack.push(current);
+
+                current="";
+            }else{
+                current+=ch;
             }
         }
-        
-        if (stack.empty()) {
-            return "/";
+
+        stack<string> my_New;
+    
+        while(!my_Stack.empty()){
+            my_New.push(my_Stack.top());     
+            my_Stack.pop();
         }
-        
-        std::string ans = "";
-        std::vector<std::string> temp;
-        while (!stack.empty()) {
-            temp.push_back(stack.top());
-            stack.pop();
+        string ans="";
+        while(!my_New.empty()){
+            ans+=('/'+my_New.top());
+            my_New.pop();
         }
-        std::reverse(temp.begin(), temp.end());
-        
-        for (const std::string& dir : temp) {
-            ans += "/" + dir;
-        }
-        
+        if(ans=="")return "/";
+
         return ans;
     }
 };

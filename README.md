@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Hariompraja/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hariompraja/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Hariompraja/leetcode-problem/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Hariompraja/leetcode-problem/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Hariompraja/leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Hariompraja/leetcode-problem/tree/master/0071-simplify-path) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |

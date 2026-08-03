@@ -263,6 +263,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -275,6 +276,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
@@ -286,6 +288,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -319,6 +322,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation

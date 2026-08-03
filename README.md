@@ -81,6 +81,7 @@
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -113,6 +114,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 ## Union-Find
 |  |
 | ------- |

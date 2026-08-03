@@ -120,6 +120,7 @@
 | [0013-roman-to-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
@@ -220,6 +221,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->

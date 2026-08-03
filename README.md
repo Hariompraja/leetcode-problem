@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -35,6 +36,7 @@
 | [0290-word-pattern](https://github.com/Hariompraja/leetcode-problem/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Hariompraja/leetcode-problem/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariompraja/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
@@ -188,6 +190,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariompraja/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |

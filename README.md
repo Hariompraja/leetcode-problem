@@ -124,6 +124,7 @@
 | [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Hariompraja/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
@@ -204,6 +205,7 @@
 | [0055-jump-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Hariompraja/leetcode-problem/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Hariompraja/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariompraja/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Hariompraja/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -251,12 +254,14 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Hariompraja/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Hariompraja/leetcode-problem/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation

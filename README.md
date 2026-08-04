@@ -38,6 +38,7 @@
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Hariompraja/leetcode-problem/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Hariompraja/leetcode-problem/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Hariompraja/leetcode-problem/tree/master/0383-ransom-note) |
@@ -135,6 +136,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariompraja/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
@@ -182,6 +184,7 @@
 | [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Hariompraja/leetcode-problem/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariompraja/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -353,6 +356,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |

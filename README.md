@@ -358,6 +358,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hariompraja/leetcode-problem/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Hariompraja/leetcode-problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -401,6 +402,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hariompraja/leetcode-problem/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Hariompraja/leetcode-problem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hariompraja/leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |

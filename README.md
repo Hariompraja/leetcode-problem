@@ -82,6 +82,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hariompraja/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Hariompraja/leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Hariompraja/leetcode-problem/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariompraja/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -291,6 +292,7 @@
 | [0110-balanced-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Hariompraja/leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
@@ -304,6 +306,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Hariompraja/leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -353,6 +356,7 @@
 | [0048-rotate-image](https://github.com/Hariompraja/leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hariompraja/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/Hariompraja/leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Hariompraja/leetcode-problem/tree/master/0289-game-of-life) |
 | [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
@@ -375,6 +379,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Hariompraja/leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)

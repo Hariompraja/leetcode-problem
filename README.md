@@ -44,6 +44,7 @@
 | [0383-ransom-note](https://github.com/Hariompraja/leetcode-problem/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariompraja/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
@@ -169,6 +170,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Hariompraja/leetcode-problem/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hariompraja/leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [3731-find-missing-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/3731-find-missing-elements) |
@@ -316,6 +318,7 @@
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hariompraja/leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0909-snakes-and-ladders](https://github.com/Hariompraja/leetcode-problem/tree/master/0909-snakes-and-ladders) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -438,4 +441,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Hariompraja/leetcode-problem/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->

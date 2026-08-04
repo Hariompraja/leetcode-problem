@@ -155,6 +155,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hariompraja/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompraja/leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Hariompraja/leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hariompraja/leetcode-problem/tree/master/0205-isomorphic-strings) |
@@ -402,4 +403,5 @@
 | [0021-merge-two-sorted-lists](https://github.com/Hariompraja/leetcode-problem/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/Hariompraja/leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->

@@ -312,6 +312,7 @@
 | [0207-course-schedule](https://github.com/Hariompraja/leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0210-course-schedule-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [3310-remove-methods-from-project](https://github.com/Hariompraja/leetcode-problem/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [0909-snakes-and-ladders](https://github.com/Hariompraja/leetcode-problem/tree/master/0909-snakes-and-ladders) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Hariompraja/leetcode-problem/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -420,6 +422,7 @@
 | [0207-course-schedule](https://github.com/Hariompraja/leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0210-course-schedule-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Hariompraja/leetcode-problem/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |

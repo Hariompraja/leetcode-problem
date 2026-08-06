@@ -158,6 +158,7 @@
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -217,6 +218,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
 | ------- |
@@ -481,4 +484,12 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hariompraja/leetcode-problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->

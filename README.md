@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hariompraja/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Counting Sort
 |  |
 | ------- |

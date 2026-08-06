@@ -66,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hariompraja/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Hariompraja/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
@@ -130,6 +131,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hariompraja/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hariompraja/leetcode-problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hariompraja/leetcode-problem/tree/master/0069-sqrtx) |
@@ -238,6 +240,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hariompraja/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hariompraja/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompraja/leetcode-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |

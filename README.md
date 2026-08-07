@@ -52,6 +52,7 @@
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariompraja/leetcode-problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hariompraja/leetcode-problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hariompraja/leetcode-problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Array
 |  |
@@ -165,6 +167,7 @@
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
@@ -293,6 +297,7 @@
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0212-word-search-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariompraja/leetcode-problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |

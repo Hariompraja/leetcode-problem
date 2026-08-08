@@ -143,6 +143,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -329,6 +330,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Hariompraja/leetcode-problem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -412,6 +414,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Hariompraja/leetcode-problem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -492,6 +495,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/1009-complement-of-base-10-integer) |
 ## Linked List
 |  |

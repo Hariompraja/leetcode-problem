@@ -323,6 +323,7 @@
 | [0110-balanced-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -341,6 +342,7 @@
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hariompraja/leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3310-remove-methods-from-project](https://github.com/Hariompraja/leetcode-problem/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -360,6 +362,7 @@
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hariompraja/leetcode-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0909-snakes-and-ladders](https://github.com/Hariompraja/leetcode-problem/tree/master/0909-snakes-and-ladders) |
@@ -397,6 +400,7 @@
 | [0110-balanced-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation

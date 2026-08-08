@@ -219,6 +219,7 @@
 | [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Hariompraja/leetcode-problem/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariompraja/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -285,6 +286,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 ## Randomized
@@ -326,6 +328,7 @@
 | [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Hariompraja/leetcode-problem/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -383,6 +386,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -407,6 +411,7 @@
 | [0112-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Hariompraja/leetcode-problem/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -526,4 +531,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0124-binary-tree-maximum-path-sum) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

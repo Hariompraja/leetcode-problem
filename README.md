@@ -171,6 +171,7 @@
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -282,6 +283,7 @@
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
@@ -458,6 +460,7 @@
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
 ## Union-Find
 |  |
 | ------- |
@@ -548,8 +551,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

@@ -308,6 +308,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Hariompraja/leetcode-problem/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Hariompraja/leetcode-problem/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0090-subsets-ii) |
@@ -569,4 +570,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

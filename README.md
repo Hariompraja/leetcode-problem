@@ -228,6 +228,7 @@
 | [0042-trapping-rain-water](https://github.com/Hariompraja/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Hariompraja/leetcode-problem/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariompraja/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Hariompraja/leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
@@ -298,6 +299,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Hariompraja/leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |

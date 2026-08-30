@@ -67,6 +67,7 @@
 | [0135-candy](https://github.com/Hariompraja/leetcode-problem/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hariompraja/leetcode-problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hariompraja/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -129,6 +130,7 @@
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hariompraja/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hariompraja/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

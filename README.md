@@ -136,6 +136,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -217,6 +218,7 @@
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hariompraja/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -407,6 +409,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Hariompraja/leetcode-problem/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -469,6 +472,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -528,6 +532,7 @@
 | [0090-subsets-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/1009-complement-of-base-10-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |

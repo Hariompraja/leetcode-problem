@@ -144,6 +144,7 @@
 | [3731-find-missing-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |

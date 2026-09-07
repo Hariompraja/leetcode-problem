@@ -57,6 +57,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariompraja/leetcode-problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -316,6 +317,7 @@
 | [0392-is-subsequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hariompraja/leetcode-problem/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |

@@ -142,6 +142,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Hariompraja/leetcode-problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hariompraja/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/3731-find-missing-elements) |
@@ -172,6 +173,7 @@
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Hariompraja/leetcode-problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Hariompraja/leetcode-problem/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
@@ -284,6 +286,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hariompraja/leetcode-problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Hariompraja/leetcode-problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -326,6 +329,7 @@
 | [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Hariompraja/leetcode-problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
 |  |
 | ------- |

@@ -158,6 +158,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hariompraja/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hariompraja/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3903-smallest-stable-index-i) |
@@ -201,6 +202,7 @@
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hariompraja/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -332,6 +334,7 @@
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hariompraja/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -667,4 +670,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Hariompraja/leetcode-problem/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hariompraja/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->

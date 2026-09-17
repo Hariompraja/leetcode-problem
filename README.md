@@ -138,6 +138,7 @@
 | [0909-snakes-and-ladders](https://github.com/Hariompraja/leetcode-problem/tree/master/0909-snakes-and-ladders) |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hariompraja/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -176,6 +177,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Hariompraja/leetcode-problem/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Hariompraja/leetcode-problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -241,6 +243,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hariompraja/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hariompraja/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -257,6 +260,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Hariompraja/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hariompraja/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
@@ -333,6 +337,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Hariompraja/leetcode-problem/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Hariompraja/leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hariompraja/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |

@@ -64,6 +64,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -505,6 +506,7 @@
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Hariompraja/leetcode-problem/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Hariompraja/leetcode-problem/tree/master/0289-game-of-life) |
+| [3498-reverse-degree-of-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |

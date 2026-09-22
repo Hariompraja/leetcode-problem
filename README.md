@@ -153,6 +153,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Hariompraja/leetcode-problem/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hariompraja/leetcode-problem/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -215,6 +216,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3525-find-x-value-of-array-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hariompraja/leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -623,6 +625,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
+| [3525-find-x-value-of-array-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3525-find-x-value-of-array-ii) |
 ## Fermat's Little Theorem
 |  |
 | ------- |

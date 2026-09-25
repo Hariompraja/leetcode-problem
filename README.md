@@ -59,6 +59,7 @@
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariompraja/leetcode-problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -254,6 +255,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Hariompraja/leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -286,6 +288,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hariompraja/leetcode-problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -390,6 +394,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Hariompraja/leetcode-problem/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariompraja/leetcode-problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -465,6 +470,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0909-snakes-and-ladders](https://github.com/Hariompraja/leetcode-problem/tree/master/0909-snakes-and-ladders) |
+| [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Hariompraja/leetcode-problem/tree/master/3310-remove-methods-from-project) |

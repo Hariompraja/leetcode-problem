@@ -60,6 +60,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hariompraja/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hariompraja/leetcode-problem/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hariompraja/leetcode-problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Hariompraja/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -292,6 +293,7 @@
 | [0224-basic-calculator](https://github.com/Hariompraja/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Hariompraja/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hariompraja/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -678,6 +680,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hariompraja/leetcode-problem/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hariompraja/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Lifting
 |  |
 | ------- |

@@ -246,6 +246,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Hariompraja/leetcode-problem/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hariompraja/leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Hariompraja/leetcode-problem/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hariompraja/leetcode-problem/tree/master/0205-isomorphic-strings) |
@@ -377,6 +378,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hariompraja/leetcode-problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Hariompraja/leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
@@ -621,6 +623,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hariompraja/leetcode-problem/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Hariompraja/leetcode-problem/tree/master/0146-lru-cache) |
 ## Topological Sort
 |  |
 | ------- |
@@ -712,4 +715,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hariompraja/leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Hariompraja/leetcode-problem/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

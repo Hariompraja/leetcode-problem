@@ -40,6 +40,7 @@
 | [0068-text-justification](https://github.com/Hariompraja/leetcode-problem/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Hariompraja/leetcode-problem/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Hariompraja/leetcode-problem/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Hariompraja/leetcode-problem/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Hariompraja/leetcode-problem/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0097-interleaving-string) |
@@ -108,6 +109,7 @@
 | [0068-text-justification](https://github.com/Hariompraja/leetcode-problem/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Hariompraja/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0090-subsets-ii) |
@@ -397,6 +399,7 @@
 | [0046-permutations](https://github.com/Hariompraja/leetcode-problem/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Hariompraja/leetcode-problem/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Hariompraja/leetcode-problem/tree/master/0093-restore-ip-addresses) |
@@ -441,6 +444,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0100-same-tree) |
@@ -551,6 +555,7 @@
 | [0054-spiral-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hariompraja/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hariompraja/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Hariompraja/leetcode-problem/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Hariompraja/leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0212-word-search-ii) |

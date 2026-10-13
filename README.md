@@ -137,6 +137,7 @@
 | [0289-game-of-life](https://github.com/Hariompraja/leetcode-problem/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [0427-construct-quad-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hariompraja/leetcode-problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Hariompraja/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Hariompraja/leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
@@ -341,6 +342,7 @@
 | [0148-sort-list](https://github.com/Hariompraja/leetcode-problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0427-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -442,6 +444,7 @@
 | [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hariompraja/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -567,6 +570,7 @@
 | [0200-number-of-islands](https://github.com/Hariompraja/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/Hariompraja/leetcode-problem/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/Hariompraja/leetcode-problem/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/Hariompraja/leetcode-problem/tree/master/0909-snakes-and-ladders) |
 | [1572-matrix-diagonal-sum](https://github.com/Hariompraja/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |

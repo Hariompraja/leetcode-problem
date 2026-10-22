@@ -452,6 +452,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hariompraja/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -480,6 +481,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hariompraja/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Hariompraja/leetcode-problem/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -504,6 +506,7 @@
 | [0226-invert-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/Hariompraja/leetcode-problem/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Hariompraja/leetcode-problem/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -554,6 +557,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hariompraja/leetcode-problem/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hariompraja/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation

@@ -140,6 +140,7 @@
 | [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Hariompraja/leetcode-problem/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Hariompraja/leetcode-problem/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0427-construct-quad-tree) |
@@ -626,6 +627,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Hariompraja/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Hariompraja/leetcode-problem/tree/master/0502-ipo) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hariompraja/leetcode-problem/tree/master/2812-find-the-safest-path-in-a-grid) |

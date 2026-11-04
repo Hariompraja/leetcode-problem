@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/Hariompraja/leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Hariompraja/leetcode-problem/tree/master/0567-permutation-in-string) |
@@ -332,6 +333,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Hariompraja/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Hariompraja/leetcode-problem/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Hariompraja/leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Hariompraja/leetcode-problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Hariompraja/leetcode-problem/tree/master/0502-ipo) |
@@ -401,6 +403,7 @@
 | [0146-lru-cache](https://github.com/Hariompraja/leetcode-problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Hariompraja/leetcode-problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Hariompraja/leetcode-problem/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Hariompraja/leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hariompraja/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [1622-fancy-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/1622-fancy-sequence) |
 ## Randomized
@@ -626,6 +629,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hariompraja/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Hariompraja/leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Hariompraja/leetcode-problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Hariompraja/leetcode-problem/tree/master/0502-ipo) |
@@ -794,4 +798,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Hariompraja/leetcode-problem/tree/master/0399-evaluate-division) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Hariompraja/leetcode-problem/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

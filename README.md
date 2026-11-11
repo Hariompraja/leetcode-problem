@@ -354,6 +354,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Hariompraja/leetcode-problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Hariompraja/leetcode-problem/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Hariompraja/leetcode-problem/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hariompraja/leetcode-problem/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Hariompraja/leetcode-problem/tree/master/0427-construct-quad-tree) |
@@ -666,6 +667,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Hariompraja/leetcode-problem/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/1009-complement-of-base-10-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hariompraja/leetcode-problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |

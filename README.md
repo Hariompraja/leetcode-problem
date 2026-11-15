@@ -127,6 +127,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Hariompraja/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Hariompraja/leetcode-problem/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Hariompraja/leetcode-problem/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hariompraja/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hariompraja/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hariompraja/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -670,6 +671,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/Hariompraja/leetcode-problem/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hariompraja/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Hariompraja/leetcode-problem/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Hariompraja/leetcode-problem/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Hariompraja/leetcode-problem/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/Hariompraja/leetcode-problem/tree/master/1009-complement-of-base-10-integer) |
